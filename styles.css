@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #f7f5f0;
+  background: #d6d6db;
 }
 /* Link Styles */
 
@@ -77,7 +77,7 @@ header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
 .tag {
-  background-color: #efefef;
+  background-color: #d6d6db;
   color: black;
   padding: 10px;
   border-radius: 5px;
@@ -92,8 +92,8 @@ header .profile-image:hover {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
-  text-align: left;
-  background: #fff;
+  text-align: center;
+  background: #f1f1f1;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
@@ -117,7 +117,7 @@ ul.skills {
 }
 
 .skills li:nth-child(odd) {
-  background: #b4d7ee;
+  background: #016a98;
 }
 
 footer {
